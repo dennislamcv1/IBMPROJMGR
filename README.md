@@ -1,12 +1,12 @@
 # IBMPROJMGR
-## IBM Project Manager Professional Certificate
+## IBM Project Manager Professional Certificate (8 course series)
 
-Prepare for a career in the high-growth field of project management. In this program, you’ll develop the skills, knowledge, and portfolio to have a competitive edge in the job market as an entry-level project manager in as little as 3 months. No prior knowledge or experience required.  
+Want to kick-start your career as a project manager without any previous experience? No problem! This Professional Certificate gives you the job-ready skills and hands-on experience you need to catch the eye of an employer and launch your career in just 3 months.
 
-Project Managers are the backbone of any organization. They plan, track, and manage projects to successful completion, work cross-functionally to guide team members, manage risks, and create a strong channel of communication amongst stakeholders. The demand for project managers who can lead a project to a successful completion has never been greater in our ever-changing, fast-paced world. 
+What do project managers do? Project Managers plan and manage projects to successful completion. This includes guiding cross-functional team members, managing risks, and creating strong communication channels amongst stakeholders. 
 
-You’ll learn in-demand skills used by professional project managers including the processes and tools needed to set up a project for success, gain a comprehensive understanding of project management concepts, and learn project management methodologies including Agile. 
+During this program, you’ll build the job-ready skills experienced project managers use daily and master the processes and tools needed to set a project up for success. You’ll gain a comprehensive understanding of project management concepts. Plus, you’ll learn project management methodologies, including Agile. 
 
-By the end of this program, you’ll have a portfolio of projects to demonstrate your proficiency, including developing project timelines, roles and responsibility matrices, stakeholder management tools, and communications plans. You’ll also unlock exclusive access to career support resources and a Professional Certificate from IBM to help you in your job search.
+Additionally, you’ll develop a portfolio of projects that demonstrate your proficiency to employers, such as developing project timelines, roles and responsibility matrices, stakeholder management tools, and communications plans. Great for interviews!
 
- In addition, this program is designed to help you prepare for attaining project management certifications such as the CAPM certification from PMI.
+Plus, you’ll prepare for the Certified Associate in Project Management (CAPM) exam from the PMI, unlock exclusive access to career support resources, and earn a professional certificate from IBM that confirms to employers you’ve got the skills they’re looking for.
